@@ -5,7 +5,7 @@ This full-stack project is centered around developing a workout management syste
 
 
 ## Backend
-The backend of the Workout Tracker is built using Node.js and Express.js, which handle server-side operations and routing. The data is stored in MongoDB, a NoSQL database known for its scalability and flexibility. We used Mongoose, which is a tool that makes working with MongoDB simpler by providing schema validation and easy data querying capabilities.
+The backend of the Workout Tracker is built using Node.js and Express.js, which handle server-side operations and routing, and the data is stored in MongoDB.
 
 #### Key Functionalities
 - CRUD Operations:
