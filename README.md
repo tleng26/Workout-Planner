@@ -50,4 +50,4 @@ The frontend of the Workout Tracker is developed using React, efficient for its 
 5. Start backend server: `npm run dev`
 6. Install frontend dependencies in another terminal: `cd frontend` `npm install`
 7. Start frontend server: `npm start`
-8. Navigate to http://localhost:3000 to view the application!
+8. Navigate to http://localhost:3000 to view the website!
