@@ -29,19 +29,6 @@ The frontend of the Workout Tracker is developed using React, efficient for its 
 
 
 
-## Challenges
-- Ensuring data consistency across the client and server was challenging. Implementing robust error handling and state management strategies was crucial to maintaining integrity.
-- Designing a UI that is equally functional and visually appealing involved meticulous CSS styling and frequent testing. Achieving a seamless user experience required iterative adjustments.
-
-
-
-
-## Future Features
-- Authentication: A secure authentication system where users can register and log in using a username and password stored securely in the database.
-- Sections for Workout Splits: Sections workouts for each day of the week, allowing users to plan and track their exercises based on specific days.
-
-
-
 ## Usage
 1. Install Node.js and npm: https://nodejs.org/
 2. Clone the repository: `git clone https://github.com/tleng26/workout-tracker.git`
