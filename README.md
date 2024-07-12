@@ -3,7 +3,7 @@ This full-stack project is centered around developing a workout management syste
 
 ### Usage
 1. Install Node.js and npm: https://nodejs.org/
-2. Clone the repository: `git clone https://github.com/tleng26/workout-planner-full-stack.git`
+2. Clone the repository: `git clone https://github.com/tleng26/workout-planner.git`
 3. Install backend dependencies: `cd backend` `npm install`
 4. Set up .env file in backend folder by replacing MONGO_URI (create a free MongoDB account)
 5. Start backend server: `npm run dev`
